@@ -1,0 +1,8 @@
+/Users/roggmatz/Documents/code/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.deps.json
+/Users/roggmatz/Documents/code/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.runtimeconfig.json
+/Users/roggmatz/Documents/code/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.runtimeconfig.dev.json
+/Users/roggmatz/Documents/code/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.dll
+/Users/roggmatz/Documents/code/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.pdb
+/Users/roggmatz/Documents/code/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.AssemblyInfo.cs
+/Users/roggmatz/Documents/code/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.dll
+/Users/roggmatz/Documents/code/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.pdb
