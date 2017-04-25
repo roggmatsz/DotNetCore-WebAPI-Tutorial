@@ -8,7 +8,7 @@ for .Net Core.
 I want to further consolidate my understanding of both C#, .Net Core, and to spend time working with Entity Framework. I "published it" here as a convenience to myself,
 since I do development on a Win10 machine at home and a MacBook Pro on the go. 
 
-# What does it do?
+## What does it do?
 Nothing terribly fancy. You can create, update, and delete todos using the following URL scheme: 
 - Create: POST, domain:port/api/todo/ ; Todo JSON definition in body.
 - Read: GET, domain:port/api/todo/[id]
